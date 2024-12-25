@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#summer {
+    color: #8e26c0;
+    font-size: 64px;
+    text-align: center;
+
+}
+
+#text {
+    color: #8e26c0;
+    font-size: 64px;
+}
+
+#miss {
+    width: 536px;
+    padding: 10px 20px;
+    background: #FFE8E8;
+    text-align: center;
+    margin: 32px;
+
+}
+
+#dont {
+    color: #F00;
+    font-size: 32px;
+}
+
+#exclusive {
+    border: 3px solid black;
+    border-left: 2px solid #C11574;
+    border-bottom: 3px solid plum;
+    border-right: 5px solid blue;
+    border-top: 3px solid greenyellow;
+    width: 936px;
+    margin: 32px;
+}
+
+
+#offer {
+    color: #85647B;
+    font-size: 40px;
+    text-align: center;
+}
+
+#end {
+    width: 936px;
+    padding: 10px 20px;
+    text-align: center;
+    background: #FFE8E8;
+    margin: 32px;
+}
+
+#season {
+    font-size: 32px;
+    text-align: center;
+}
+
+#discount {
+    color: #FF4405;
+    font-size: 40px;
+}
+
+#shop {
+    border: 2px solid #3538cd;
+    width: 1023px;
+    padding: 10px 20px;
+    align-items: center;
+    text-align: center;
+    margin: 32px;
+
+}
+
+#big {
+    color: #0064CE;
+    text-align: right;
+    font-size: 32px;
+
+}
+
+#img {
+    margin: 32px;
+}
